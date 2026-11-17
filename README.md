@@ -6,16 +6,20 @@
 
 ### 🎯 Executive Summary
 - 🎓 **Background:** 4th-year Management Information Systems (MIS) Student @ Akdeniz University.
-- 💼 **Target:** Securing a high-impact mandatory internship (Feb-June 2027) in **Data Analytics, ERP, or Software QA**.
-- 🔍 **Core Focus:** SQL Database Management, Data Visualization (Power BI), Python Programming, and Quality Assurance.
-- 📜 **Certifications:** HackerRank SQL (Basic).
+- 💼 **Career Objective:** Aiming to build a robust career in **Data Analytics, ERP, and Software QA**, leveraging my upcoming mandatory internship (Feb-June 2027) as a launchpad for data-driven business solutions.
+- 🏆 **Certifications & Training:** 
+  - HackerRank SQL (Basic) Certificate
+  - BTK Akademi Uygulamalarla SQL Öğreniyorum
+  - BTK Akademi Power BI & Data Analytics
+- 🔍 **Core Focus:** Database Management, Data Visualization, Business Operations, and Quality Assurance.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23_(Basic)-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ### 📈 Analytics & GitHub Activity

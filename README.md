@@ -7,10 +7,12 @@
 ### 🎯 Executive Summary
 - 🎓 **Background:** 4th-year Management Information Systems (MIS) Student @ Akdeniz University.
 - 💼 **Career Objective:** Aiming to build a robust career in **Data Analytics, ERP, and Software QA**, leveraging my upcoming mandatory internship (Feb-June 2027) as a launchpad for data-driven business solutions.
-- 🏆 **Certifications & Training:** 
-  - HackerRank SQL (Basic) Certificate
+- 🏆 **Certifications:** 
+  - HackerRank SQL (Basic)
   - BTK Akademi Uygulamalarla SQL Öğreniyorum
   - BTK Akademi Power BI & Data Analytics
+  - BTK Akademi Proje ve Risk Yönetimi
+- 🚀 **Currently Upskilling In:** Generative AI, Prompt Engineering, and Advanced Excel Scenarios.
 - 🔍 **Core Focus:** Database Management, Data Visualization, Business Operations, and Quality Assurance.
 
 ### 🛠️ Tech Stack & Tools

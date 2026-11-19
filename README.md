@@ -1,4 +1,4 @@
-# 📊 Yıldıray Kızıldağ | Data-Driven Business Analyst
+# 📊 Yıldıray Kızıldağ | Data & Business Analytics | MIS Student
 
 *Bridging the gap between raw data, business operations, and software quality.*
 
